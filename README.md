@@ -27,7 +27,7 @@ I am an enthusiast for data analytics and cyber security <img src="https://media
 
 - :seedling: Exploring Data Analytics and Cyber Security.
 
-- :zap: In my free time, I to read tech and political articles.
+- :zap: In my free time, I love to read tech and political articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-darji21/)
 - 😄 Pronouns: He/him
